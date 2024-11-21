@@ -1,0 +1,9 @@
+{
+    "domain": "sht30_sensor",
+    "name": "SHT30 Sensor",
+    "version": "1.0",
+    "requirements": [
+        "smbus-cffi==0.5.1"
+    ],
+    "codeowners": ["@your_github_username"]
+  }
